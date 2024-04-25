@@ -23,8 +23,3 @@ Links to projects with corresponding dates:
 10.   [2B-TORRES-EXER6](https://colab.research.google.com/drive/16yZXkU6Y9CKAj37SP38ZeMOEDgLZL2Za?usp=sharing)
 11.   [2B-TORRES-EXER7](https://colab.research.google.com/drive/1oMwlE2sPNeb54tOxw99S6Nls7b0q9XiS?usp=sharing)
 12.   [2B-TORRES-MIDTERM](https://colab.research.google.com/drive/1GyEpouw-q8-LxW4s5ItuA8QO8D5ATD20?usp=sharing)
-
-
-
-
-
